@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.mapr.streams:mapr-streams:5.2.0-mapr:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.mapr.streams/mapr-streams/jars/mapr-streams-5.2.0-mapr.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
